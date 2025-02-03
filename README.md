@@ -2,10 +2,10 @@ Este repositório contém uma aplicação CRUD (create, read, update, delete) pa
 
 ## Funcionalidades
 
-- **Cadastrar** novos contatos com nome, telefone e e-mail.
-- **Buscar** contatos através do nome.
-- **Atualizar** os dados de um contato existente.
-- **Excluir** contatos.
+- Cadastrar novos contatos com nome, telefone e e-mail.
+- Buscar contatos através do nome.
+- Atualizar os dados de um contato existente.
+- Excluir contatos.
 - Exibição de contatos em uma interface gráfica.
 
 ## Requisitos
@@ -19,12 +19,14 @@ Este repositório contém uma aplicação CRUD (create, read, update, delete) pa
 1 - Crie um banco de dados MySQL.
 2 - Crie uma tabela chamada com essa estrutura:
 
+```sql
 CREATE TABLE new_table (
 	id INT AUTO_INCREMENT PRIMARY KEY,
 	nome VARCHAR(100) NOT NULL,
 	telefone VARCHAR(15) NOT NULL,
 	email VARCHAR(100) NOT NULL
 );
+```
 
 ## Instruções de uso
 
