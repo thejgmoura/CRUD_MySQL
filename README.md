@@ -17,7 +17,7 @@ Este repositório contém uma aplicação CRUD (create, read, update, delete) pa
 ## Configuração do banco de dados
 
 - Crie um banco de dados MySQL.
-- Crie uma tabela chamada com essa estrutura:
+- Crie uma tabela com essa estrutura:
 
 ```sql
 CREATE TABLE new_table (
