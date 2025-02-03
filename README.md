@@ -16,8 +16,8 @@ Este repositório contém uma aplicação CRUD (create, read, update, delete) pa
 
 ## Configuração do banco de dados
 
-1 - Crie um banco de dados MySQL.
-2 - Crie uma tabela chamada com essa estrutura:
+- Crie um banco de dados MySQL.
+- Crie uma tabela chamada com essa estrutura:
 
 ```sql
 CREATE TABLE new_table (
@@ -30,9 +30,7 @@ CREATE TABLE new_table (
 
 ## Instruções de uso
 
-1 - Clone este repositório para o seu computador.
-2 - Abra o projeto no Visual Studio.
-3 - Execute o projeto.
-4 - Utilize os botões para adicionar, atualizar, excluir ou buscar contatos.
-
-Se houver dúvidas ou sugestões, fique à vontade para abrir uma issue!
+- Clone este repositório para o seu computador.
+- Abra o projeto no Visual Studio.
+- Execute o projeto.
+- Utilize os botões para adicionar, atualizar, excluir ou buscar contatos.
